@@ -1,1 +1,4 @@
 myinfor.txt
+temp.txt
+*.pyc
+webenv/**
